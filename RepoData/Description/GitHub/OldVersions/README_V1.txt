@@ -1,0 +1,1 @@
+🔐️🇴.🇸🔑️📖️ The LocksmithOS Product Keys documentation source repository, allowing the storage of product keys within the system (LocksmithOS will never require a product key to use, this repository only lets you store copies of existing keys)
